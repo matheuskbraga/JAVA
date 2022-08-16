@@ -1,2 +1,2 @@
 # JAVA
-Projetos realizados em linguagem de programação Java
+Projetos realizados em linguagem de programação Java.
